@@ -1,0 +1,36 @@
+.image{
+  width:200px;
+}
+
+button{
+  height: 50px;
+  margin: 10px;
+  color: #fff;
+  background: #87CEEB;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  width: 140px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.card{
+  display:flex;
+  flex-direction: column;
+  background: #eaeaea;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items:center;
+}
